@@ -25,7 +25,8 @@ class BlockAPI{
 	private $randomUpdates = array();
 	public static $creative = array(
 		array(COBBLESTONE, 0),
-		array(STONE_BRICKS, 0),
+		array(FIRE, 0),
+                array(STONE_BRICKS, 0),
 		array(STONE_BRICKS, 1),
 		array(STONE_BRICKS, 2),
 		array(MOSS_STONE, 0),
